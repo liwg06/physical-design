@@ -34,11 +34,16 @@ https://github.com/The-OpenROAD-Project/OpenROAD
 ## synthesize
 https://github.com/efabless/openlane 
 
+## Floorplan
+https://github.com/The-OpenROAD-Project/ioPlacer 
+
 ## placemet
 https://github.com/The-OpenROAD-Project/RePlAce  
 
 ## routing
 https://github.com/cuhk-eda 
+UCSD Detailed Router https://github.com/The-OpenROAD-Project/TritonRoute
+FastRoute http://home.eng.iastate.edu/~cnchu/FastRoute.html  https://github.com/The-OpenROAD-Project/FastRoute 
 
 ## Timing
 https://github.com/The-OpenROAD-Project/OpenSTA  
