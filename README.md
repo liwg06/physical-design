@@ -50,5 +50,6 @@ https://github.com/The-OpenROAD-Project/OpenSTA
 
 ## others
 https://github.com/limbo018/OpenMPL  
-http://cadlab.cs.ucla.edu/~pubbench/  UCLA Optimality Study Project
+http://cadlab.cs.ucla.edu/~pubbench/  UCLA Optimality Study Project  
+http://vlsicad.eecs.umich.edu/BK/PlaceUtils/  Executable Placement Utilities
 
